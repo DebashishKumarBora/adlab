@@ -59,11 +59,6 @@ Plus a **How it works** page that shows every formula and ad spec transparently.
   - On the deployed site, paste a free **Google Gemini** key ([aistudio.google.com/apikey](https://aistudio.google.com/apikey)). The key stays in the browser tab and is sent only to Google. No key ever costs anything.
   - No key, no problem. The engine still produces real, usable copy.
 
-## Deploy (free, GitHub Pages)
-1. Create a public repo named `adlab`.
-2. Upload `index.html`, `README.md` and the `screenshots` folder.
-3. **Settings → Pages → Source:** `main` / `root` → **Save**.
-4. Live in about a minute at the URL above. Check it in an **Incognito** window (GitHub Pages caches hard).
 
 ## Tech
 `HTML` · `CSS` · vanilla `JavaScript` · hand-rolled `SVG` charts · Anthropic / Gemini for optional Live AI. Single file, no frameworks, no build step.
